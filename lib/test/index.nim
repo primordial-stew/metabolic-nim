@@ -1,1 +1,3 @@
-import ../model_spec, ../action_spec
+import spec, spec_model, spec_action
+
+mocha.run
